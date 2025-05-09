@@ -1,4 +1,3 @@
-import React from 'react';
 import { Card, Button } from "@nextui-org/react";
 import { SymptomsSearch } from '../components/SymptomsSearch';
 import { useNavigate } from 'react-router-dom';
